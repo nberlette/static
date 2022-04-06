@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+.DS_Store
+svg/edge-icons/svg-icons/favicon.ico
+svg/edge-icons/svg-icons/index.html
+svg/edge-icons/svg-icons/jquery.min.js
+svg/edge-icons/svg-icons/list.js
+svg/edge-icons/svg-icons/loading.gif
+svg/edge-icons/icons.md
+svg/edge-icons/icons.html

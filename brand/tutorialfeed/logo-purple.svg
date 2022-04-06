@@ -1,0 +1,30 @@
+<svg 
+  xmlns="http://www.w3.org/2000/svg" 
+  viewBox="0 0 200 200" 
+  width="200"
+  height="200"
+  fill="none"
+>
+  <style>
+    path {
+      filter: 
+        drop-shadow(0px 3px 0px #00000010) 
+        drop-shadow(5px 8px 10px #00000011);
+      transform: translate(10px, 5px) scale(0.9);
+    }
+  </style>
+  <linearGradient 
+    id="a"
+    gradientUnits="userSpaceOnUse" 
+    y1="-50" y2="100" 
+    x1="-50" x2="80"
+  >
+    <stop offset="0" stop-color="#79c0ff" />
+    <stop offset="1" stop-color="#d2a8ff" />
+  </linearGradient>
+  <path
+    fill-rule="evenodd"
+    fill="url(#a)"
+    color="inherit"
+    d="M38.4,48,26.6,115.2q-2.8,16.2,1.9,22.8t18.7,6.6q13.2,0,28.4-6.6L74,146.8a71.5,71.5,0,0,1-27.4,5.6Q12,152.4,18.4,116l12-68H0l1-5.4,30.8-2.2,7.4-24.6h5L39.8,40.4Z M181,0l-1.4,7.6q-31.8,0-45.5,7.2T116.8,40.2H173l-1.4,7.6h-56L97,153.8q-6.2,36.4-43.4,36.4l1.4-7.6q15,0,23.1-6.7t10.7-21.1l18.8-107-69.162-.131,1.3-7L109,40.2q4.4-22,20.8-31.1T181,0Z" />
+</svg>
